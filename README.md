@@ -22,4 +22,6 @@ Somit ist der nächste Spieler an der Reihe und der Countdown von 5 Sekunden sta
 
 Bei Erreichen der maximalen Punktzahl von 5 Punkten gilt das Spiel als beendet.
 
+Wenn Spieler 1 zuerst 5 Punkte erreicht, darf Spieler 2 seinen Zug noch ausführen und es kann zu einem Punktegleichstand kommen. Somit würde das Spiel unentschieden enden.
+
 Der Spieler, welcher das Spiel gewonnen hat, wird auf dem Display angezeigt.
